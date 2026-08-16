@@ -1,0 +1,5 @@
+Scenario,Alert Level,Prediction,Failure Prob (%),Top Risk Factor,SHAP Contribution,Prob_Random_Forest,Prob_XGBoost,Prob_LightGBM,Prob_Gradient_Boosting
+S1: Normal Operation,🟢,Normal,0.2,Process temperature K,0.4854,0.022,0.0089,0.0064,0.016
+S2: Thermal Stress,CRITICAL,FAILURE,99.11,Torque Nm,3.2302,0.8415,0.9998,0.9998,0.9455
+S3: Tool End-of-Life,CRITICAL,FAILURE,99.24,Torque Nm,2.8017,0.8968,0.999,0.9997,0.9133
+S4: Overstrain / High-Speed,CRITICAL,FAILURE,99.09,PWF,3.3409,0.9998,0.9999,0.9998,0.9951

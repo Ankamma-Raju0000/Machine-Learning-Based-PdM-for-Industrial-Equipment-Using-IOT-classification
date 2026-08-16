@@ -1,0 +1,4 @@
+Context,Fleet,Baseline Cost £,PdM Cost £,Annual Savings £,ROI %,Payback (months),Description
+Automotive Assembly,500,1920000,280000,1640000,683.3,1.5,High-value CNC/robotic lines. Long downtime impact.
+Food & Beverage,1200,1800000,207300,1592700,1327.2,0.8,Mid-value conveyors/mixers. High volume fleet.
+Power Generation,150,2500000,448000,2052000,500.5,2.0,Critical turbines. Catastrophic failure cost.

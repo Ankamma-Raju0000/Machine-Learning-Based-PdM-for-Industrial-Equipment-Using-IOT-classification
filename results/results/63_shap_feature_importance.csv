@@ -1,0 +1,12 @@
+Feature,Mean_SHAP
+Torque Nm,2.3719072
+Tool wear min,1.6830255
+Rotational speed rpm,1.2889056
+Process temperature K,0.8513659
+Air temperature K,0.830687
+Type_encoded,0.5249982
+HDF,0.3886765
+PWF,0.3794798
+TWF,0.2755865
+OSF,0.26871702
+RNF,0.0

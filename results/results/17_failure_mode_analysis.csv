@@ -1,0 +1,6 @@
+Mode,Full Name,Count,Recall,Precision,Avg Prob
+TWF,Tool Wear Failure,10,0.9,1.0,0.8784
+HDF,Heat Dissipation Failure,29,1.0,1.0,0.9913
+PWF,Power Failure,13,1.0,1.0,0.9908
+OSF,Overstrain Failure,16,1.0,1.0,0.9911
+RNF,Random Failure,4,0.0,0.0,0.1438

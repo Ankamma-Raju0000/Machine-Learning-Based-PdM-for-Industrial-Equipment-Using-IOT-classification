@@ -1,0 +1,4 @@
+Instance,True Label,Pred Probability,Top Risk Factor
+4,0,0.9476,Type_encoded
+17,1,0.9903,Type_encoded
+21,1,0.9909,Air temperature K
